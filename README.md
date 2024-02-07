@@ -45,25 +45,10 @@ This material is for educational purposes only.
 > $ java -version
 > ```
 > #### Check your java version is 17
-> ![java_version](https://github.com/jhcode33/spring-microservice-in-action/assets/125725072/e3152684-e912-4205-99e6-851300122a45)
-
+> ![git_clone](https://github.com/YimJeoYeol/spring-microservice-in-action.git)
 <br>
 
-## 2. Git fork and Git Clone
-> ### Step 1: git fork
-> ![git_fork](https://github.com/jhcode33/spring-microservice-in-action/assets/125725072/3b53219b-f7d8-4531-9b13-f6ef4c049d21)
->
-> ### Step 2: git fork create your repository
-> ![git_fork_2](https://github.com/jhcode33/spring-microservice-in-action/assets/125725072/699be232-a128-490d-ade2-93699eb8356b)
-> 
-> ### Step 3: git copy [ your-fork-repository-url ]
-> ![git_fork_3](https://github.com/jhcode33/spring-microservice-in-action/assets/125725072/ffa4bd58-c395-4fdc-8d02-63d16c744e7e)
->
-> ### Step 4: git clone in your local workspace
-> ```bash
-> $ git clone [ your-fork-repository-url ]
-> ```
-> ![git_clone](https://github.com/jhcode33/spring-microservice-in-action/assets/125725072/eac0135d-222d-455e-9afb-ca16685ec422)
+>![git_clone](https://github.com/YimJeoYeol/spring-microservice-in-action.git)
 
 Congratulations! Open the project and get started!
 
@@ -71,10 +56,10 @@ Congratulations! Open the project and get started!
 
 ## Contact
 
-이 코드에 대한 의견이나 피드백이 있는 경우 제목에 키워드를 포함하여 <jhcode33@gmail.com>로 문의해주세요.
+이 코드에 대한 의견이나 피드백이 있는 경우 제목에 키워드를 포함하여 <kingdom934@gmail.com>로 문의해주세요.
 
 > If you have any comments or feedback regarding this software, 
-please reach out to us via email at <jhcode33@gmail.com> with the specified keyword in the subject line.
+please reach out to us via email at <kingdom934@gmail.com> with the specified keyword in the subject line.
 
 - keyword: [microservice-in-action]
 
