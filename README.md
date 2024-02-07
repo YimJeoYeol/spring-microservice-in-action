@@ -44,11 +44,6 @@ This material is for educational purposes only.
 > ```bash
 > $ java -version
 > ```
-> #### Check your java version is 17
-> ![git_clone](https://github.com/YimJeoYeol/spring-microservice-in-action.git)
-<br>
-
->![git_clone](https://github.com/YimJeoYeol/spring-microservice-in-action.git)
 
 Congratulations! Open the project and get started!
 
